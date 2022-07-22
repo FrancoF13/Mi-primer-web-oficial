@@ -1,0 +1,83 @@
+body {
+    background-image: linear-gradient(to right top, #798897, #578494, #2e8184, #1b7b66, #33723d);
+    background-image: url(imagenes/Fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: auto; 
+   
+}
+
+h1 {
+    font-family: 'Gluten', cursive;
+    font-size: 50px;
+    margin: 15px;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(87, 83, 83);
+}
+
+h2 {
+    font-family: 'Gluten', cursive;
+    font-size: 35px;
+    margin: 10px;
+    text-align: center;
+    text-decoration: underline 2px;
+    text-shadow: 2px 2px 5px rgb(48, 45, 45);
+}
+
+.navbar-brand {
+    font-size: 35px;
+}
+
+p {
+    text-decoration-color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin: 5px;
+    word-wrap: break-word;
+
+}
+
+a {
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(25, 82, 23);
+    text-align: center;
+    border-bottom: rgba(0, 0, 0, 0.904);
+    text-decoration: underline;
+}
+
+a.over {
+    color: rgba(rgba(53, 52, 35, 0.856));
+
+}
+
+        
+.caja {
+    background-color: rgba(247, 241, 241, 0.863);
+    color: rgba (rgba(0, 0, 0, 0.836), alpha);
+    border: solid 1px black;
+    box-shadow: 10px 10px 6px rgba(26, 26, 27, 0.829);
+    text-align: justify;
+    padding: 10px;
+    border-radius: 4px;
+    margin: 50px;
+   
+}
+
+.conteiner {
+    box-shadow: 10px 10px 5px grey;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.959);
+    border: solid 5px black;
+    text-align: center;
+    color:rgb(22, 75, 26);   
+    font-size: 20px;
+    text-decoration: none;
+}
+
+th, td {
+    padding-right: 40px;
+}
